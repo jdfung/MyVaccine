@@ -29,4 +29,4 @@ The application also implements on a admin server side, which allows for admin t
     Deploy the application to the Apache Tomcat Server
     Access the application through a web browser
 
-If you have any questions or issues with the application, please don't hesitate to raise an issue in the Github repository. We hope you find our Java-based Vaccination Scheduling Web Application useful!
+If you have any questions or issues with the application, please don't hesitate to raise an issue in the Github repository. We hope you find our Web Application useful!
