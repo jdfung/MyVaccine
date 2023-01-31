@@ -2,7 +2,7 @@
 
 Welcome to MyVaccine, a platform for managing and scheduling vaccination appointments for individuals. The application is developed using Java, JSP, HTML/CSS, and MySQL, providing a user-friendly interface for both patients and healthcare professionals.
 
-The application allows patients to easily schedule appointments for themselves or for their dependents. They can view available timeslots, select a preferred date and time, and securely store their personal and medical information. Healthcare professionals can access the platform to manage appointments, update patient information, and generate reports on vaccine distribution.
+The application allows patients to easily schedule appointments for themselves or for their dependents. They can view available timeslots, select a preferred date and time, and securely store their personal and medical information. The application also implements on a admin server side, which allows for Healthcare professionals to easily to manage appointments, update patient information, as well as manage on available vaccination locations.
 
 The application also implements on a admin server side, which allows for admin to easily manage on patients data, patients scheduling, as well as manage on available vaccination locations.
 
